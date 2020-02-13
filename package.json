@@ -1,0 +1,25 @@
+{
+  "name": "web-temp",
+  "version": "0.0.0",
+  "description": "Web template include web program and node program",
+  "repository": {
+    "url": "peng/web-temp",
+    "type": "git"
+  },
+  "author": "peng <414326615@qq.com> (github.com/peng)",
+  "license": "MIT",
+  "files": [
+    "saofile.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "sao": "^1.0.0"
+  }
+}
